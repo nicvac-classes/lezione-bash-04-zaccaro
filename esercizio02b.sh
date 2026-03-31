@@ -20,5 +20,5 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 
-
+mkdir -p ambiente/sandbox/scuola/{classi/{terza,quarta},docenti/{terza,quarta}
 
