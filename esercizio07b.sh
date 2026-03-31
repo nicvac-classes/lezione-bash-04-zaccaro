@@ -11,6 +11,6 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
+find ambiente/ -type f -name"*.jpg"
 
 
