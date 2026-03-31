@@ -13,6 +13,7 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
+grep "\[login_fallito\]" ambiente/log/accessi.log
+grep -c "\[login_ok\]" ambiente/log/accessi.log
 
 

@@ -12,6 +12,7 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
+ls ambiente/immagini/lavoro/*.jpg
 
 
 
