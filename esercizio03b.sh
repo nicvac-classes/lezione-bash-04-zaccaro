@@ -13,6 +13,7 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
-
-
+ls ambiente/sandbox/dati_privati.txt
+chmod g+r ambiente/sandbox/dati_privati.txt
+ls -1 ambiente/sandbox/dati_privati.txt
+./ambiente/sandbox/dati_privati.txt
